@@ -56,7 +56,7 @@
 <p align="left">
   
  <a href="https://www.linkedin.com/in/tomachmc/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="30" width="110" /></a>
-<a href="https://api.whatsapp.com/send?phone=5511950241602" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30" width="110" /></a>
+<a href="https://api.whatsapp.com/send?phone=5511-" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" height="30" width="110" /></a>
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" width="110" align ="center">](mailto:matheus.tomachevski@gmail.com)
 <a href="https://discord.com/invite/3dzRCfbx" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" height="30" width="110" /></a>
   </div>
