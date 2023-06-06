@@ -1,6 +1,6 @@
 <h1 align="center">Olá 🛸, bem vindo(a)! </h1>
 
-  Sou um Estudante de Java, Python e Full Stack, no momento estou cursando Sistemas de Informação na [Universidade Anhanguera São Paulo](https://www.anhanguera.com) e finalizei meus cursos voltados a Cloud nos sistemas AWS, Azure, Oracle Cloud e Google (GCP). Trabalho atualmente como Analista de Gestão de Acesso na empresa [Global HItss](https://www.linkedin.com/company/global-hitss/mycompany/), utilizando dos sistemas de Cybersegurança para Criação/ Validação e Rastreio de Grupos e Usuários localizados na Claro Brasil. Empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, aprendendo novas tecnologias realizando cursos e desafios práticos constantemente. 
+  Sou um Estudante de Java, Python e Full Stack, no momento estou cursando Sistemas de Informação na [Universidade Anhanguera São Paulo](https://www.anhanguera.com) e finalizei meus cursos voltados a Cloud nos sistemas AWS, Azure, Oracle Cloud e Google (GCP). Trabalho atualmente como Analista de Segurança da Informação na empresa [GPA - Grupo Pão de Acçucar](https://www.linkedin.com/company/gpabr/) Empenhado em evoluir e colaborar no desenvolvimento das pessoas e projetos, aprendendo novas tecnologias realizando cursos e desafios práticos constantemente. 
 
 
 
@@ -46,7 +46,7 @@
   
 
   <div>
-  <img align="right" alt="Alien" width="200" height="200" src="https://64.media.tumblr.com/7d6c6006d54d3f32a22badac769049e3/tumblr_inline_ojj9i5v6wV1sp1kfz_500.gifv">
+  <img align="right" alt="Alien" width="200" height="200" src="https://i.gifer.com/J4Qb.gif">
     
   </div>
  
